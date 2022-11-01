@@ -1,6 +1,6 @@
 # Um sistema de cadastro
 
-## Linguagens e programas
+## Linguagens e programas utilizados
 
 1. Php 
 
