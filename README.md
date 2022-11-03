@@ -1,9 +1,15 @@
 # Um sistema de cadastro
 
-## Linguagens e programas utilizados
+## Linguagens
 
 1. Php 
 
-2. PhpMyAdmin
+2. Html
 
-3. Html
+## Banco de dados
+
+1. MySql
+
+## Sistema Gerenciador de Banco de Dados (SGBD)
+
+1. PhpMyAdmin
