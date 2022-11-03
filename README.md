@@ -13,3 +13,11 @@
 ## Sistema Gerenciador de Banco de Dados (SGBD)
 
 1. PhpMyAdmin
+
+- Tipo do servidor
+
+2. MariaDb
+
+- Versão do servidor
+
+3. 10.4.25-MariaDB
