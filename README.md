@@ -1,4 +1,4 @@
-# Um sistema de cadastro
+# Sistema de cadastro
 
 ## Linguagens
 
