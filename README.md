@@ -1,6 +1,6 @@
 # Sistema de cadastro
 
-Um sistema de cadastro utilizando php com banco de dados mysql, onde o usuário podera adicionar, editar e excluir alunos.
+Um sistema de cadastro utilizando php com banco de dados mysql, onde o usuário poderá adicionar, editar e excluir alunos.
 
 ## Linguagem de programação
 
