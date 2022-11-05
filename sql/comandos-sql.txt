@@ -16,5 +16,5 @@ CREATE TABLE aluno (
     senha varchar(100) NOT NULL,
     idade int NOT NULL,
     contato varchar(15) NOT NULL,
-    endereco varchar(100) NOT NULLs
+    endereco varchar(100) NOT NULL
 );
