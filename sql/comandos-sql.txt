@@ -1,0 +1,20 @@
+CREATE DATABASE cadastrodb;
+
+use cadastrodb;
+
+CREATE TABLE usuario (
+    id int AUTO_INCREMENT PRIMARY KEY,
+    nome varchar (100) NOT NULL,
+    email varchar(100) NOT NULL,
+    senha varchar(100) NOT NULL
+);
+
+CREATE TABLE aluno (
+    id int AUTO_INCREMENT PRIMARY KEY,
+    nome varchar (100) NOT NULL,
+    email varchar(100) NOT NULL,
+    senha varchar(100) NOT NULL,
+    idade int NOT NULL,
+    contato varchar(15) NOT NULL,
+    endereco varchar(100) NOT NULLs
+);
